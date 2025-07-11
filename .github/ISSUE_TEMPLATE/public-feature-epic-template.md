@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-#PT:
+# PT-
 
 ## Resumo
 xxx
@@ -26,7 +26,7 @@ xxx
 - xxx
 - xxx
 
-#EN:
+# EN-
 
 ## Summary
 xxx
