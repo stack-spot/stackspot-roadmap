@@ -11,7 +11,6 @@ assignees: ''
 
 ## Resumo
 xxx
-<br>
 
 ## Resultado Pretendido
 - xxx
@@ -26,11 +25,12 @@ xxx
 - xxx
 - xxx
 
+---
+
 # EN-
 
 ## Summary
 xxx
-<br>
 
 ## Intended Outcome
 - xxx
